@@ -1,3 +1,3 @@
 Habit App
 Developers: Howard Wu, Chris Sketch
-Habit App is a web application focused on helping people create habits that lead to a better life.
+Habit App is a web application focused on helping people create good habits or get rid of bad habits and lead a better life.  
